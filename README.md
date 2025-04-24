@@ -2,9 +2,9 @@
 # Objective 1:- 
 <i>Total Square Footage by Region:
 -> A bar chart visualized total rentable square feet per GSA region, with
-regions sorted by size.</i>
--> <i>The mean square footage across regions was plotted as a reference line, and
-z-scores identified outliers.
+regions sorted by size.<br>
+-> The mean square footage across regions was plotted as a reference line, and
+z-scores identified outliers.<br>
 -> The most extreme region (highest z-score) indicated a significant
 concentration of large properties</i>
 
